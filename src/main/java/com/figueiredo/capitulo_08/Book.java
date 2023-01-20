@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_8;
+package com.figueiredo.capitulo_08;
 
 // Declarando um tipo enum com um construtor e campos de instância explícitos
 // e métodos de acesso para esses campos

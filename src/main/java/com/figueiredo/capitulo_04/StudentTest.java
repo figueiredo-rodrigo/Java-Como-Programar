@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_4;
+package com.figueiredo.capitulo_04;
 
 // Cria e testa objetos Student.
 public class StudentTest {

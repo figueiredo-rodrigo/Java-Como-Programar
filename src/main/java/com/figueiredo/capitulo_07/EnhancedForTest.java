@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // Utilizando a instrução for aprimorada para somar inteiros em um array.
 

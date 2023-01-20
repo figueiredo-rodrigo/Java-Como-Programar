@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
  // Inteiros aleatórios deslocados e escalonados.
   import java.security.SecureRandom; // o programa usa a classe SecureRandom

@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // Aplicativo de teste para exibir um arco-íris.
 import javax.swing.JFrame;

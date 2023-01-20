@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
 // Desenhando uma cascata de formas com base na escolha do usuário.
  import java.awt.Graphics;

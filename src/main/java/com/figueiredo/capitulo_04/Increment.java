@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_4;
+package com.figueiredo.capitulo_04;
 
  // Operadores de pré-incremento e de pós-incremento.
  

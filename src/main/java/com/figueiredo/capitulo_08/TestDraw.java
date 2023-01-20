@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_8;
+package com.figueiredo.capitulo_08;
 
 // Criando um JFrame para exibir um DrawPanel.
 import javax.swing.JFrame;

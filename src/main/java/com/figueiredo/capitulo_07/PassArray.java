@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 public class PassArray
  {

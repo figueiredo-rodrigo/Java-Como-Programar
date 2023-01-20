@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
 // a instrução break sai de uma instrução for.
  public class BreakTest 

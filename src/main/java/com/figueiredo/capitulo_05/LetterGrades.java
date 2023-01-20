@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
 // A classe LetterGrades utiliza a instrução switch para contar as letras das notas escolares.
  import java.util.Scanner; 

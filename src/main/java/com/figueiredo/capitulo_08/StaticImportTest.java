@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_8;
+package com.figueiredo.capitulo_08;
 
 import static java.lang.Math.*;
 

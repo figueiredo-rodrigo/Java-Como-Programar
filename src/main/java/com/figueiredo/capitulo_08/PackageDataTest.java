@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_8;
+package com.figueiredo.capitulo_08;
 
 // Membros de acesso de pacote de uma classe permanecem acessíveis a outras classes
 // no mesmo pacote.

@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_3;
+package com.figueiredo.capitulo_03;
 
 // Figura 3.5: Account.java
 // a classe Account com um construtor que inicializa nome e balanço.

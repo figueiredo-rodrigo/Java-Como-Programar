@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // Desenhando um arco-íris com arcos e um array de cores.
 import java.awt.Color;

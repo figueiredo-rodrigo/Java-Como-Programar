@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
 // Classe que representa uma apólice de seguro de automóvel.
 public class AutoPolicy {

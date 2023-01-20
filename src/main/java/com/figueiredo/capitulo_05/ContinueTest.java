@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
 // Instrução continue que termina uma iteração de uma instrução for.
  public class ContinueTest 

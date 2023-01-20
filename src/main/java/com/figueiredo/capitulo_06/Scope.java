@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // A classe Scope demonstra os escopos de campo e de variável local.
 

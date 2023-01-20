@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
 // Obtendo a entrada de usuário e criando um JFrame para exibir Shapes.
  import javax.swing.JFrame; // manipula a exibição

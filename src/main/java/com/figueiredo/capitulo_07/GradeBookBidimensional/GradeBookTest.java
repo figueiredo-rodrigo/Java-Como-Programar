@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7.GradeBookBidimensional;
+package com.figueiredo.capitulo_07.GradeBookBidimensional;
 
 // GradeBookTest cria o objeto GradeBook utilizando um array bidimensional
 // das notas e, então, invoca o método processGrades para analisá-las.

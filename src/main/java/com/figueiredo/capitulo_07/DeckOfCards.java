@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // classe DeckOfCards representa um baralho.
 import java.security.SecureRandom;

@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_4;
+package com.figueiredo.capitulo_04;
 
 // Análise dos resultados do exame utilizando instruções de controle aninhadas.
  import java.util.Scanner; // classe utiliza a classe Scanner

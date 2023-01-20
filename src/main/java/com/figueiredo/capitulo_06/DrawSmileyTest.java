@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // Aplicativo de teste que exibe um rosto sorridente.
 import javax.swing.JFrame;

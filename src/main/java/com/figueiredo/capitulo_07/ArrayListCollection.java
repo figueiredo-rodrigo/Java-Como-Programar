@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // Demonstração da coleção ArrayList<T> genérica.
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_3;
+package com.figueiredo.capitulo_03;
 
   // Entrada e saída de números de ponto flutuante com objetos Account.
 

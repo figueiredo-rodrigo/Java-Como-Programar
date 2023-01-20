@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_5;
+package com.figueiredo.capitulo_05;
 
  // Repetição controlada por contador com a instrução de repetição while.
  

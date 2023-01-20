@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // Método maximum declarado pelo programador com três parâmetros double.
 import java.util.Scanner;

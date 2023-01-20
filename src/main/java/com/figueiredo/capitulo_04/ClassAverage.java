@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_4;
+package com.figueiredo.capitulo_04;
 
 // Resolvendo o problema da média da classe usando a repetição controlada por contador.
 import java.util.Scanner; // programa utiliza a classe Scanner

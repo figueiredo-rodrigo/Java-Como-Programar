@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // GradeBookTest cria um objeto GradeBook utilizando um array de notas,
  // e, então, invoca o método processGrades para analisá-las.

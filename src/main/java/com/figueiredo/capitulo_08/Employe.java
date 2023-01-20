@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_8;
+package com.figueiredo.capitulo_08;
 
 // Variável static utilizada para manter uma contagem do número de
 // objetos Employee na memória.

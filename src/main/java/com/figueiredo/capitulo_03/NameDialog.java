@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_3;
+package com.figueiredo.capitulo_03;
 
 import javax.swing.JOptionPane;
 

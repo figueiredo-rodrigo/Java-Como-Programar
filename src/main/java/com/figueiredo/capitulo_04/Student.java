@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_4;
+package com.figueiredo.capitulo_04;
 
 // Classe Student que armazena o nome e a média de um aluno.
 public class Student {

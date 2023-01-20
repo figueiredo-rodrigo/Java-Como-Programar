@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_8;
+package com.figueiredo.capitulo_08;
 
 // Membros privados da classe Time1 não são acessíveis.
 public class MemberAccessTest {

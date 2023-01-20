@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // Declarações de métodos sobrecarregados.
 

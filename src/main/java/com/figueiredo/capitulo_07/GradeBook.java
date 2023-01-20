@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // classe GradeBook utilizando um array para armazenar notas de teste.
 

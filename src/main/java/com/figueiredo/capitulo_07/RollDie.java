@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // Programa de jogo de dados utilizando arrays em vez de switch.
  import java.security.SecureRandom;

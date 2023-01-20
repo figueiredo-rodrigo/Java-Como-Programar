@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7;
+package com.figueiredo.capitulo_07;
 
 // Métodos da classe Arrays e System.arraycopy.
 import java.util.Arrays;

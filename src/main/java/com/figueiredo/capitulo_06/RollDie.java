@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // Rola um dado de seis lados 6.000.000 vezes.
 import java.security.SecureRandom;

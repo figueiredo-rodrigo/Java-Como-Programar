@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // Desenhando um rosto sorridente com cores e formas preenchidas.
 import java.awt.Color;

@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_4;
+package com.figueiredo.capitulo_04;
 
  // Utilizando DrawLine para conectar os cantos de um painel.
   import java.awt.Graphics;

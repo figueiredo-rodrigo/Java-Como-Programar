@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // A classe Craps simula o jogo de dados craps.
 import java.security.SecureRandom;

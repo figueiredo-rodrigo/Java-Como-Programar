@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_6;
+package com.figueiredo.capitulo_06;
 
 // A classe test define o maior e menor valor da entrada de dados.
 import java.util.Scanner;

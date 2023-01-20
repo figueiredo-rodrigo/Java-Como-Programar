@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_9;
+package com.figueiredo.capitulo_09;
 
 // A classe CommissionEmployee representa um empregado que recebeu um
 // percentual das vendas brutas.

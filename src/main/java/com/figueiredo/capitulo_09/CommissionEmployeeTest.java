@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_9;
+package com.figueiredo.capitulo_09;
 
 // Programa de teste da classe CommissionEmployee.
 

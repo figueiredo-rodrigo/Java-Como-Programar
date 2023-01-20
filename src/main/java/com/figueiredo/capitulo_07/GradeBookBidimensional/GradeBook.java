@@ -1,4 +1,4 @@
-package com.figueiredo.capitulo_7.GradeBookBidimensional;
+package com.figueiredo.capitulo_07.GradeBookBidimensional;
 
 // classe GradeBook utilizando um array bidimensional para armazenar notas.
 
