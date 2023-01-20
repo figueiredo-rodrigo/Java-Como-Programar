@@ -1,0 +1,441 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PayrollSystemTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_10.PayrollSystemTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteDaInterfacePagar",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_10.TesteDaInterfacePagar",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch TesteDePolimorfismo",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_10.TesteDePolimorfismo",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch PayableInterfaceTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_10.PayableInterfaceTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolymorphismTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_10.PolymorphismTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution2",
+            "request": "launch",
+            "mainClass": "com.figueiredo.Solution2",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.Solution",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestDraw",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.TestDraw",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.Interest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch PackageDataTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.PackageDataTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticImportTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.StaticImportTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.EmployeTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnumTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.EnumTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time2Test",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.Time2Test",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.ThisTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch MemberAccessTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.MemberAccessTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Time1Test",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_8.Time1Test",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawRainbowTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.DrawRainbowTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListCollection",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.ArrayListCollection",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayManipulations",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.ArrayManipulations",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch InitArrayCommand",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.InitArrayCommand",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch InittArray",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.InittArray",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch GradeBookTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.GradeBookBidimensional.GradeBookTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch GradeBookTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.GradeBookTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch EnhancedForTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.EnhancedForTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch DeckOfCardsTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.DeckOfCardsTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentPoll",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.StudentPoll",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch RollDie",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.RollDie",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scope",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.Scope",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch BarChart",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.BarChart",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch InitArray",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_7.InitArray",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlvoTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.AlvoTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawSmileyTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.DrawSmileyTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverload",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.MethodOverload",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Craps",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.Craps",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch RollDie",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.RollDie",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch RandomIntegers",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.RandomIntegers",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.Teste",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.teste",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparison",
+            "request": "launch",
+            "mainClass": "com.figueiredo.Comparison",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch q_2_24",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_2.q_2_24",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccountTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_3.AccountTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch NameDialog",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_3.NameDialog",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch NameDialogAccount",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_3.NameDialogAccount",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Analysis",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_4.Analysis",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassAverage",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_4.ClassAverage",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch DrawPanelTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_4.DrawPanelTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Increment",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_4.Increment",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch StudentTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_4.StudentTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutoPolicyTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.AutoPolicyTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch BreakTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.BreakTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContinueTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.ContinueTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoWhileTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.DoWhileTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ForCounter",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.ForCounter",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.Interest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch LetterGrades",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.LetterGrades",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch LogicalOperators",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.LogicalOperators",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShapesTest",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.ShapesTest",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.Sum",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch WhileCounter",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_5.WhileCounter",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaximumFinder",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_6.MaximumFinder",
+            "projectName": "programar"
+        }
+    ]
+}
