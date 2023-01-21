@@ -9,8 +9,7 @@ public class Fatura implements Pagamento {
     private double precoPorItem;
 
     // construtor
-    public Fatura(String numeroDaPeça, String descriçãoParcial, int quantidade,
-            double precoPorItem) {
+    public Fatura(String numeroDaPeça, String descriçãoParcial, int quantidade, double precoPorItem) {
         if (quantidade < 0) // valida quantidade
             throw new IllegalArgumentException("Quantidade deve ser >= 0");
 
@@ -74,4 +73,10 @@ public class Fatura implements Pagamento {
     public double getValorDopagamento() {
         return getquantidade() * getprecoPorItem(); // calcula custo total
     }
+
+    public Object getMessage() {
+        return null;
+    }
+
+    
 } // fim da classe Invoice

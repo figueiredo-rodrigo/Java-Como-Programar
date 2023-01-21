@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DivideByZeroNoExceptionHandling",
+            "request": "launch",
+            "mainClass": "com.figueiredo.capitulo_11.DivideByZeroNoExceptionHandling",
+            "projectName": "programar"
+        },
+        {
+            "type": "java",
             "name": "Launch PayrollSystemTest",
             "request": "launch",
             "mainClass": "com.figueiredo.capitulo_10.PayrollSystemTest",
